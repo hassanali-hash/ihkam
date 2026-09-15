@@ -1,0 +1,6 @@
+{
+  "name": "Ihkam Financial Governance",
+  "description": "Bilingual enterprise financial governance platform for assessing internal controls, managing risks and gaps, and creating personalized governance roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
