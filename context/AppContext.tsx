@@ -18,6 +18,7 @@ import {
   MonitoringTransaction
 } from '@/lib/types';
 import {
+  getDefaultStorageState,
   loadStorageState,
   saveStorageState,
   resetAllData,
